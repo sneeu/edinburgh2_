@@ -1,0 +1,83 @@
+body {
+	background: #fff;
+	color: #222;
+	font: 100%/1.5em "Helvetica Neue",Arial,Helvetica,sans-serif;
+	margin: 0 auto;
+	width: 48em;
+}
+
+a,
+a:link,
+a:visited {
+	color: #339;
+}
+a:active,
+a:hover {
+	color: #00f;
+}
+
+h1 {
+	color: #000;
+	font-size: 2em;
+	line-height: 1.5em;
+	padding: 1.5em 0;
+}
+h2 {
+	font-size: 1.25em;
+	line-height: 1.2em;
+}
+h1 + p {
+	padding: 0 0 1.5em;
+}
+
+.events {
+	float: left;
+	padding: 0 0 3em;
+	width: 100%;
+}
+.events li {
+	border: 0.5em solid #eee;
+	float: left;
+	margin: 0 1em 1em 0;
+	padding: 0.5em;
+	width: 13em;
+}
+
+.events .refreshedinburgh {
+	border-color: #a2b935;
+}
+.events .techmeetup {
+	border-color: #685c4e;
+}
+.events .scotrug {
+	border-color: #c61a1a;
+}
+.events .macmacdev {
+	border-color: #666c78;
+}
+.events .edmug {
+	border-color: #333333;
+}
+.events .edlug {
+	border-color: #0000ff;
+}
+.events .edinburghpm {
+	border-color: #336699;
+}
+.events .supa {
+	border-color: #ff9805;
+}
+.events .edinburghpug {
+	
+}
+.events .tba {
+	color: #ccc;
+}
+
+.footer {
+	text-align: right;
+}
+.footer a {
+	background: #ff9;
+	padding: 0.75em;
+}
