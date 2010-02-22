@@ -74,6 +74,9 @@ h1 + p {
 .events .edpug {
 	border-color: #e7eff7;
 }
+.events .edcm {
+	border-color: #990000;
+}
 .events .edinburghpug {
 	
 }
