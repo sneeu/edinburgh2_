@@ -53,10 +53,18 @@ body > article > section {
 	width: 100%;
 }
 body > article > section > header {
-	-webkit-transform-origin: 23.5em 25em;
-	-webkit-transform: rotate(-90deg);
 	clear: both;
 	text-align: right;
+	transform-origin: 23.5em 25em;
+	transform: rotate(-90deg);
+	-ms-transform-origin: 23.5em 25em;
+	-ms-transform: rotate(-90deg);
+	-moz-transform-origin: 23.5em 25em;
+	-moz-transform: rotate(-90deg);
+	-o-transform-origin: 23.5em 25em;
+	-o-transform: rotate(-90deg);
+	-webkit-transform-origin: 23.5em 25em;
+	-webkit-transform: rotate(-90deg);
 }
 body > article > section > header h2 {
 	background: #fff;
