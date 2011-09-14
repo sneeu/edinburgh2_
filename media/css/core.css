@@ -117,6 +117,9 @@ body > footer a {
 .events .refreshedinburgh {
 	border-color: #a2b935;
 }
+.events .bcs {
+	border-color: #063;
+}
 .events .techmeetup {
 	border-color: #685c4e;
 }
