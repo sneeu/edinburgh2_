@@ -150,6 +150,9 @@ body > footer a {
 .events .edpug {
 	border-color: #e7eff7;
 }
+.events .hacklab {
+	border-color: #545d64;
+}
 .events .edcm {
 	border-color: #990000;
 }
