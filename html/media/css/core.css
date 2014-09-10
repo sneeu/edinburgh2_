@@ -165,6 +165,12 @@ body > footer a {
 .events .ewdd {
 	border-color: #a93742;
 }
+.events .pyladies {
+	border-color: #e61543;
+}
+.events .edinburghjs {
+	border-color: #0f67ba;
+}
 .events .tba {
 	color: #ccc;
 }
